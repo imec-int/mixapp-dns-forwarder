@@ -8,6 +8,7 @@ exports.DNSentries = {
 	'ab.mixapp.be' : '10.100.1.4',
 	'mixapp.be' : '10.100.1.4',
 	'hacklights.mixlab.be' : '10.100.1.4',
+	'hacklights.mixapp.be' : '10.100.1.4',
 	'mixmini.mixlab.be' : '10.100.1.2'
 }
 
