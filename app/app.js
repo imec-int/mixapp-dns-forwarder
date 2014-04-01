@@ -17,7 +17,7 @@ server.on('request', function (req, res) {
 	var host = req.question[0].name;
 
 	// log request
-	log('['+req.address.address+'] needs ' + host);
+	// log('['+req.address.address+'] needs ' + host);
 
 	// kennen we die host?
 	if(config.DNSentries[host] ) {
